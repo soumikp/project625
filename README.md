@@ -1,5 +1,8 @@
 # project625
+
 Final term project for BIOSTAT 625
+
+Courtney Morgan (csmorgan@umich.edu), Haihan Zhang (hhzhang@umich.edu) and Soumik Purkayastha (soumikp@umich.edu)
 
 1. The [/code](https://github.com/soumikp/project625/tree/main/code) folder contains the code associated with this report. 
 
