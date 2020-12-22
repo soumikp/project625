@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/706808/267e3551a0b1485296fb6c009af6dc6b
+bundleId: https://api.rpubs.com/api/v1/document/706808/267e3551a0b1485296fb6c009af6dc6b
+url: http://rpubs.com/soumikp/706808
+when: 1608616235.90286

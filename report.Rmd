@@ -73,8 +73,6 @@ Another recent study implied that there is a significant and systematic differen
 In this report, we first explore the relationship between political affiliation of a state governor in the United States and pandemic control through visual inspection and unadjusted statistical inference using simple bootstrap-based group comparisons. Next, we investigate if said association is significant after controlling for gender of governor, public health preparedness and population of state by means a linear regression model. National Health Security Preparedness Index (NHSPI) [@phi2020index]
 is a  group of six measures (such as health security surveillance, community planning and engagement and others) that take into account readiness for disease outbreaks. These indices were incorporated into our analysis to control for confounding. 
 
-The rest of the report is organised as follows. 
-
 # 2. Methods
 
 All data we used were from online public resources. We obtained the gender and political affiliation of state governors from [Wikipedia](https://en.wikipedia.org/wiki/List_of_current_United_States_governors). The COVID-19 data for the United States were collected from [The New York Times' Github repository](https://github.com/nytimes/covid-19-data) . The state-wise population counts were obtained from [Wikipedia](https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population) as well. The National Health Security Preparedness Index (NHSPI) was extracted from its [official website](https://nhspi.org/).
