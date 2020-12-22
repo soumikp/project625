@@ -6,7 +6,7 @@ Courtney Morgan (csmorgan@umich.edu), Haihan Zhang (hhzhang@umich.edu) and Soumi
 
 1. The [/code](https://github.com/soumikp/project625/tree/main/code) folder contains the code associated with this report. 
 
-2. The [/figures](https://github.com/soumikp/project625/tree/main/code) folder contains the figures created for this report. 
+2. The [/figures](https://github.com/soumikp/project625/tree/main/figures) folder contains the figures created for this report. 
 
 3. The [markdown file](https://github.com/soumikp/project625/blob/main/report.Rmd) may be used to generate the report. Please note, some libraries may need to be installed. The [report](https://github.com/soumikp/project625/blob/main/report.html) may be too large for Github to display on their website. Please consider downloading the repository and reading the report. Alternatively, please find an html copy of our report [here](https://rpubs.com/soumikp/706808). A pdf copy of our report (excluding figures and tables) may be found [here](https://github.com/soumikp/project625/blob/main/report.pdf)
 
