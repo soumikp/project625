@@ -18,6 +18,3 @@ Project contributions
 
 Courtney wrote the code to pull demographic data and and public health-index data and implemented the covariate-adjusted linear model. Haihan wrote the report and helped with formulating the covariate-adjusted linear model. Soumik wrote the code for unadjusted bootstrap-based comparison and created the figures and tables. All three members contributed equally to conceptualising the project. 
 
-<hr>
-
-Please note: given the nature of the tables and figures in the report, we chose not to create a pdf file but use an [html-based report](http://rstudio-pubs-static.s3.amazonaws.com/706808_c6701bf164ac4d878d8eda514ad0b0e9.html) instead. Barring the figures and tables, the text falls within the five-page requirement as stated in the  requirements section of the project description on Canvas. The [report (excluding figures and tables)](https://github.com/soumikp/project625/blob/main/report_no_figures_tables.pdf) is also included in this repository.
