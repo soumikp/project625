@@ -8,7 +8,7 @@ Courtney Morgan (csmorgan@umich.edu), Haihan Zhang (hhzhang@umich.edu) and Soumi
 
 2. The [/figures](https://github.com/soumikp/project625/tree/main/figures) folder contains the figures created for this report. 
 
-3. The [markdown file](https://github.com/soumikp/project625/blob/main/report.Rmd) may be used to generate the report. Please note, some libraries may need to be installed. The [report](https://github.com/soumikp/project625/blob/main/report.html) may be too large for Github to display on their website. Please consider downloading the repository and reading the report. Alternatively, please find an html copy of our report [here](https://rpubs.com/soumikp/706808). A pdf copy of our report (excluding figures and tables) may be found [here](https://github.com/soumikp/project625/blob/main/report_no_figures_tables.pdf)
+3. The [markdown file](https://github.com/soumikp/project625/blob/main/report.Rmd) may be used to generate the report. Please note, some libraries may need to be installed. The [report](https://github.com/soumikp/project625/blob/main/report.html) may be too large for Github to display on their website. Please consider downloading the repository and reading the report. Alternatively, please see an [html copy](https://rpubs.com/soumikp/706808) of our report. A [pdf copy](https://github.com/soumikp/project625/blob/main/report_no_figures_tables.pdf) of our report (excluding figures and tables) is also available.
 
 Thank you for giving us the opportunity to learn so many new things in this course! Happy holidays! 
 
@@ -20,4 +20,4 @@ Courtney wrote the code to pull demographic data and and public health-index dat
 
 <hr>
 
-Please note: given the nature of the tables and figures in the report, we chose not to create a pdf file but use an html-based report instead. Barring the figures and tables, the text falls within the five-page requirement as stated in the  requirements section of the project description on Canvas. The report (excluding figures and tables) is also included in this repository and may be found  [here](https://github.com/soumikp/project625/blob/main/report_no_figures_tables.pdf). 
+Please note: given the nature of the tables and figures in the report, we chose not to create a pdf file but use an [html-based report](http://rstudio-pubs-static.s3.amazonaws.com/706808_c6701bf164ac4d878d8eda514ad0b0e9.html) instead. Barring the figures and tables, the text falls within the five-page requirement as stated in the  requirements section of the project description on Canvas. The [report (excluding figures and tables)](https://github.com/soumikp/project625/blob/main/report_no_figures_tables.pdf) is also included in this repository.
